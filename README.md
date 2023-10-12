@@ -1,2 +1,2 @@
 # cubeLite
-Arduino-based mini satellite project
+Requirements analysis is currently underway... more info coming soon.
